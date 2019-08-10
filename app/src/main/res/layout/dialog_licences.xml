@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="50dp"
+    android:background="@drawable/bg_corners_color_darkest"
+    android:layout_height="match_parent">
+<WebView
+    android:scrollbars="none"
+    android:layout_margin="10dp"
+    android:id="@+id/licences_webview"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    />
+
+    <TextView
+        android:id="@+id/licences_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@drawable/selector_license"
+        android:padding="10dp"
+        android:text="OK" />
+</LinearLayout>

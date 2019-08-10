@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDarkest">#1c2431</color>
+    <color name="colorDark">#2a3547</color>
+    <color name="colorLight">#3f4c5f</color>
+    <color name="colorLightest">#657385</color>
+    <color name="colorNeon">#54fffc</color>
+    <color name="colorNeonDark">#00a8a5</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#f44336</color>
+    <color name="colorGreen">#41f14a</color>
+
+</resources>

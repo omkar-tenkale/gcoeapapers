@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course">
+        <item>BTECH</item>
+        <item>MTECH</item>
+    </string-array>
+    <string-array name="semester">
+        <item>1ST SEMESTER</item>
+        <item>2ND SEMESTER</item>
+        <item>3RD SEMESTER</item>
+        <item>4TH SEMESTER</item>
+        <item>5TH SEMESTER</item>
+        <item>6TH SEMESTER</item>
+        <item>7TH SEMESTER</item>
+        <item>8TH SEMESTER</item>
+
+    </string-array>
+    <string-array name="branch">
+        <item>CIVIL</item>
+        <item>MECHANICAL</item>
+        <item>ELECTRICAL</item>
+        <item>ELECTRONICS</item>
+        <item>COMPUTER SCIENCE</item>
+        <item>INSTRUMENTATION</item>
+        <item>INFORMATION TECH.</item>
+    </string-array>
+    <string-array name="exam_type">
+        <item>CT1</item>
+        <item>CT2</item>
+        <item>ESE</item>
+    </string-array>
+
+
+</resources>

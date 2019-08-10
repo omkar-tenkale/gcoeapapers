@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GCOEA Papers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TapToExitToast">Please tap  again to exit</string>
+    <string name="me">Designed &amp; Developed by Omkar Tenkale</string>
+    <string name="app_short_info">A small attempt to provide Previous Year Test Papers</string>
+</resources>

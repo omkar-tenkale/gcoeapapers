@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector
+xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_pressed="true">
+
+    <shape android:dither="true"
+        android:shape="rectangle"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/colorDark"/>
+
+    </shape>
+</item>
+    <item android:state_window_focused="true">
+
+        <shape android:dither="true"
+            android:shape="rectangle"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/colorDarkest"/>
+
+        </shape>
+    </item>
+</selector>
